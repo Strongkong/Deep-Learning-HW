@@ -2,6 +2,6 @@
 ## ClickStarter Team
 Homework for Deep Learning BME
 
-Finished milestone: I.
+Finished milestone: II.
 
-Currently working on: II.
+Currently working on: Final milestone.
