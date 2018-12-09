@@ -1,6 +1,6 @@
 # Deep-Learning-HW
 ## ClickStarter Team
-Homework for Deep Learning BME
+Homework for Deep Learning 2018, BME
 
 Finished milestone: Final milestone.
 
@@ -24,4 +24,4 @@ The uploaded jupyter notebooks have been run on Google Colab with the following 
 * tensorflow-1.12.0
 * talos-0.4.3
 
-If they not installed, then they will be on the fly with pip commands in the notebooks. To reproduce the demonstration you only have to run the notebooks one after another.
+If they are not installed then they will be on the fly with pip commands in the notebooks. To reproduce the demonstration you only have to run the notebooks one after another.
