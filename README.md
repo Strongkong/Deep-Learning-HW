@@ -2,7 +2,11 @@
 ## ClickStarter Team
 Homework for Deep Learning 2018, BME
 
-Finished milestone: Final milestone.
+*Finished milestone: Final milestone.*
+
+**Team members**: Csukás Tamás, Sillye Márk, Tóth Attila
+
+**Article**: [Clickstarter_documentation.pdf](Clickstarter_documentation.pdf)
 
 ### Instructions to run the jupyter notebooks
 
